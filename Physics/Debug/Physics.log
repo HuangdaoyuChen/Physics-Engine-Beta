@@ -1,0 +1,51 @@
+﻿Build started 3/25/2017 5:49:43 PM.
+     1>Project "C:\Users\Tommy\workspaces\Visual Studio 2013\Physics\Physics\Physics.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt app.cpp bridge.cpp car.cpp cradle.cpp domino.cpp curtain.cpp fgen.cpp graphics.cpp joints.cpp main.cpp piston.cpp pool.cpp sandBox.cpp
+         sandBox.cpp
+         piston.cpp
+         main.cpp
+         joints.cpp
+         fgen.cpp
+         curtain.cpp
+         Generating Code...
+         Compiling...
+         pool.cpp
+         graphics.cpp
+         domino.cpp
+         cradle.cpp
+         car.cpp
+         bridge.cpp
+         app.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tommy\workspaces\Visual Studio 2013\Physics\Debug\Physics.exe" /INCREMENTAL /NOLOGO glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Tommy\workspaces\Visual Studio 2013\Physics\Debug\Physics.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tommy\workspaces\Visual Studio 2013\Physics\Debug\Physics.lib" /MACHINE:X86 Debug\app.obj
+         Debug\body.obj
+         Debug\bridge.obj
+         Debug\car.obj
+         Debug\collide_coarse.obj
+         Debug\collide_fine.obj
+         Debug\contacts.obj
+         Debug\core.obj
+         Debug\cradle.obj
+         Debug\domino.obj
+         Debug\curtain.obj
+         Debug\fgen.obj
+         Debug\graphics.obj
+         Debug\joints.obj
+         Debug\main.obj
+         Debug\particle.obj
+         Debug\pcontacts.obj
+         Debug\pfgen.obj
+         Debug\piston.obj
+         Debug\plinks.obj
+         Debug\pool.obj
+         Debug\pworld.obj
+         Debug\sandBox.obj
+         Debug\world.obj
+         Physics.vcxproj -> C:\Users\Tommy\workspaces\Visual Studio 2013\Physics\Debug\Physics.exe
+     1>Done Building Project "C:\Users\Tommy\workspaces\Visual Studio 2013\Physics\Physics\Physics.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:13.01
