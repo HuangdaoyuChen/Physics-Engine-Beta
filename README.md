@@ -1,5 +1,5 @@
 # Physics Engine
-![image](https://github.com/DouglasChenH/Physics-Engine-Beta/physics engine.png)
+![image](https://github.com/DouglasChenH/Physics-Engine-Beta/raw/master/physics engine.png)
 ## Overview 
 
 The goal of this project is to develop a real-time 2D physics engine. 
